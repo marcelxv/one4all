@@ -1,3 +1,5 @@
+![alt text](https://github.com/marcelxv/one4all/blob/main/one4all.png)
+
 # One4All
 
 Framework com soluções práticas e gratuitas para que times e desenvolvedores possam criar seus projetos levando questões de acessibilidade em consideração a cada estágio do desenvolvimento. **Inclusive [recomendado] incluir acessibilidade ao seu design desde o dia 0 do projeto**
