@@ -104,3 +104,4 @@ Se o conteúdo pode ser inserido usando o teclado, então o conteúdo pode ser o
 O conteúdo está em conformidade com o critério de sucesso 2.3.1 (flash geral e vermelho).
 - [ ]	4.2.3 Pelo menos uma versão do conteúdo atende a todos os critérios de sucesso nível 2, mas as versões alternativas que não atendem a todos os critérios de sucesso nível 2 podem estar disponíveis a partir do mesmo URI. [Como atender 4.2.3]
 - [ ]	4.2.4 O conteúdo implementado utilizando tecnologias fora da linha de base escolhida satisfaz todos os requisitos de Nível 1 e Nível 2 suportados pelas tecnologias. [Como atender 4.2.4]
+
