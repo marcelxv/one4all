@@ -23,6 +23,7 @@ Esse é apenas um exemplo de como a integração da acessibilidade se aplica a u
 - 💰 **Calculadora de custos:** página da web com calculadora simples que "faça as contas" do prejuízo de não considerar acessibilidade desde o dia 0 de um projeto. Quanto custa refazer para adaptar vs. Quanto custa fazer acessível desde o dia 0;
 - 🖼️ **Selo de acessível** certificação para sites e apps reconhecido pela comunidade;
 - 📂 **Docs:** documentação sobre práticas de acessibilidade para apps, sites, front end (UI);
+- 🔧 **Plugins para Design:** reunimos mais de 10 plugins gratuitos para ajudar designers e desenvolvedores a aplicar boas práticas de acessibilidade ao design em qualquer etapa do processo;
 
 
 
