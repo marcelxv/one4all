@@ -105,3 +105,12 @@ O conteúdo está em conformidade com o critério de sucesso 2.3.1 (flash geral 
 - [ ]	4.2.3 Pelo menos uma versão do conteúdo atende a todos os critérios de sucesso nível 2, mas as versões alternativas que não atendem a todos os critérios de sucesso nível 2 podem estar disponíveis a partir do mesmo URI. [Como atender 4.2.3]
 - [ ]	4.2.4 O conteúdo implementado utilizando tecnologias fora da linha de base escolhida satisfaz todos os requisitos de Nível 1 e Nível 2 suportados pelas tecnologias. [Como atender 4.2.4]
 
+## Deploy
+**Pré-requisitos**
+Para iniciar, será necessario ter instalado na máquina as seguinte ferramenta:
+[Git](https://git-scm.com)
+
+**Clone o repositório:**
+$ git clone <https://github.com/marcelxv/one4all/>
+
+Suba o projeto no seu github, e começe a utilizar o checklist!
