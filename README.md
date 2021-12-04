@@ -1,4 +1,5 @@
 # One4All
+
 Framework com soluções práticas e gratuitas para que times e desenvolvedores possam criar seus projetos levando questões de acessibilidade em consideração a cada estágio do desenvolvimento.
 Criar um framework que ofereça soluções práticas e gratuitas para que times e desenvolvedores possam criar seus projetos levando questões de acessibilidade  em consideração a cada estágio do desenvolvimento.
 
@@ -23,3 +24,14 @@ Esse é apenas um exemplo de como a integração da acessibilidade se aplica a u
 - 💰 **Calculadora de custos:** página da web com calculadora simples que "faça as contas" do prejuízo de não considerar acessibilidade desde o dia 0 de um projeto. Quanto custa refazer para adaptar vs. Quanto custa fazer acessível desde o dia 0;
 - 🖼️ **Selo de acessível** certificação para sites e apps reconhecido pela comunidade;
 - 📂 **Docs:** documentação sobre práticas de acessibilidade para apps, sites, front end (UI);
+
+
+
+**Time**
+
+- Marcel Scognamiglio de Campos Lourenço – RM 92382
+- Gabriel Dovnorovzki Rodrigues – RM 92399
+- Felipe Farias Vieira – RM 92182
+- Luciana Pereira dos Santos Souza – RM 92014
+
+
