@@ -1,8 +1,8 @@
 ### Checklist de acessbilidade (Teste)
 
--[ ] Mercury
--[x] Venus
--[x] Earth (Orbit/Moon)
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
 -[x] Mars
 -[ ] Jupiter
 -[ ] Saturn
