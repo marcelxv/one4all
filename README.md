@@ -2,7 +2,8 @@
 
 # One4All
 
-Framework com soluções práticas e gratuitas para que times e desenvolvedores possam criar seus projetos levando questões de acessibilidade em consideração a cada estágio do desenvolvimento. **Inclusive [recomendado] incluir acessibilidade ao seu design desde o dia 0 do projeto**
+Framework com soluções práticas e gratuitas de acessibilidade para desenvolvedores web.
+**A W3C recomenda incluir acessibilidade ao seu design desde o dia 0 do projeto. Mas, por onde começar?***
 
 **Por que?**
 
